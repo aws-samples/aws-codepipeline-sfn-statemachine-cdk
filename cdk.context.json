@@ -1,0 +1,10 @@
+{
+  "prodAccId": "1",
+  "devAccId": "2",
+  "devAccRegion": "us-west-1",
+  "codePipelineArtifactBucketName": "artifact-bucket-new-us-west-1",
+  "codeCommitRepoName": "aws-codepipeline-stepfunctions-1-cdk",
+  "codePipelineCrossAccountRole": "CodePipelineCrossAccountRole-4PVV5QMKJ60HO",
+  "cloudformationCrossAccountRole": "CloudFormationDeploymentRole-0WYTZHE10BS13",
+  "keyId": "a9f9"
+}

@@ -1,0 +1,19 @@
+bin/*.js
+lib/**/*.js
+!lib/application/lambda/*.js
+!jest.config.js
+*.d.ts
+node_modules
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+cdk.out/*
+
+# intellij
+.idea
+.idea/*
+.DS_Store
+.DS_Store/*
+.npmignore
+commands.json
