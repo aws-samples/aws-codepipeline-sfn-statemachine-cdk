@@ -91,3 +91,7 @@ git push -u origin main
 # The pipeline should start executing. Monitor pipeline execution from the AWS Console for CodePipeline
 
 ```
+
+## License
+
+This library is licensed under the MIT-0 License. See the LICENSE file.

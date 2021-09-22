@@ -1,3 +1,6 @@
+// Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+// SPDX-License-Identifier: MIT-0
+
 import cdk = require('@aws-cdk/core');
 import iam = require('@aws-cdk/aws-iam');
 import {App, Construct, Stack, StackProps} from '@aws-cdk/core';

@@ -1,3 +1,6 @@
+// Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+// SPDX-License-Identifier: MIT-0
+
 import codecommit = require('@aws-cdk/aws-codecommit');
 import {App, RemovalPolicy, Stack, StackProps} from '@aws-cdk/core';
 import kms = require('@aws-cdk/aws-kms');

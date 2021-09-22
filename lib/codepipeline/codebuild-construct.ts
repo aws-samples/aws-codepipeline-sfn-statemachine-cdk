@@ -1,3 +1,6 @@
+// Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+// SPDX-License-Identifier: MIT-0
+
 import codebuild = require('@aws-cdk/aws-codebuild');
 import kms = require('@aws-cdk/aws-kms');
 import cdk = require('@aws-cdk/core');

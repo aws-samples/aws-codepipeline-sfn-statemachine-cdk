@@ -1,3 +1,6 @@
+// Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+// SPDX-License-Identifier: MIT-0
+
 import cdk = require('@aws-cdk/core');
 import kds = require('@aws-cdk/aws-kinesis');
 import s3 = require('@aws-cdk/aws-s3');
