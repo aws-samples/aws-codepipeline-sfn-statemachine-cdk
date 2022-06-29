@@ -93,5 +93,7 @@ git push -u origin main
 ```
 
 ## License
+This library is licensed under the MIT-0 License. See the [LICENSE](LICENSE) file.
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
+## Author
+[Ram Vasireddy](https://github.com/ramvasi)
